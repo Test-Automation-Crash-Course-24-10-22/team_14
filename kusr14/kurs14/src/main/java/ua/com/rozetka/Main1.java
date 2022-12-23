@@ -9,6 +9,7 @@ public class Main1 {
 
 
         WebDriver driver = new ChromeDriver();
+
         driver.get("https://rozetka.com.ua/ua/");
     }
 }
